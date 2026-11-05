@@ -1,0 +1,10 @@
+streamlit==1.50.0
+pandas==2.3.3
+numpy==2.3.4
+plotly==6.3.1
+sqlalchemy==2.0.44
+scikit-learn==1.7.2
+openpyxl==3.1.5
+requests==2.32.5
+
+
